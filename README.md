@@ -5,7 +5,8 @@
 <a href="#About Project">About Project</a>\
 <a href="#About Contributor">About Contributor</a>\
 <a href="#Tools">Tools</a>\
-<a href="#Dataset">Dataset and Data cleaning</a>\
+<a href="#Dataset and Data cleaning">Dataset and Data cleaning</a>\
+<a href="#Column(dimension) and Metrics Description">Column(dimension) and Metrics Description</a>\
 <a href="#Report of Exploration">Dashboard</a>
 
 ---------------------------------------------------
@@ -24,5 +25,8 @@ I'm Yossakorn Napeang "Tie". I'm a new Political Science graduates who change in
 * Google Data Studio to import the dataset, set the metrics, visualize and make the dashboard.
 
 ---------------------------------------------------
-<div id="Dataset"><h3>Dataset & Data cleaning</h3> </div>
+<div id="Dataset and Data cleaning"><h3>Dataset & Data cleaning</h3> </div>
 I use dataset from this kaggle https://www.kaggle.com/gregorut/videogamesales (thanks for this :) )
+In this project, I've removed rows with NaN year (181 rows) so from 16599 rows in original dataset has left 16328 rows.
+
+---------------------------------------------------
