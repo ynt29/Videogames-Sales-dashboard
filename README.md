@@ -31,7 +31,8 @@ In this project, I've removed rows with NaN year (181 rows) so from 16599 rows i
 
 ---------------------------------------------------
 <div id="Column(dimension) and Metrics Description"><h3>Column(dimension) and Metrics Description</h3> </div>
-In dataset(and dimension in Google Data Studio) contains the following column\
+In dataset(and dimension in Google Data Studio) contains the following column 
+
 Rank: Ranking of overall sales\
 Name: The games name\
 Platform: Platform of the games release (for example PC,PS4, Wii, etc.)\
@@ -42,7 +43,7 @@ NA_Sales: Sales in North America (in millions)\
 EU_Sales: Sales in Europe (in millions)\
 JP_Sales: Sales in Japan (in millions)\
 Other_Sales: Sales in the rest of the world (in millions)\
-Global_Sales: Total worldwide sales(by game)\
+Global_Sales: Total worldwide sales(by game)
 
 Then you come into my dashboard you'll find following metrics for calculated some dimension\
 Game Count: Number of Games\
@@ -52,5 +53,9 @@ JP_TotalSales: Total sales in Japan (in millions)\
 NA_TotalSales: Total sales in North America (in millions)\
 Other_TotalSales: Total sales in the rest of the world (in millions)\
 Total Games: All number of Games
+
+---------------------------------------------------
+<div id="Dashboard"><h3>Dashboard</h3> </div>
+You can see and explore my dashboard in this. https://datastudio.google.com/reporting/e3d1ec1f-0535-41d9-8dc0-be3db8d68b10
 
 ---------------------------------------------------
